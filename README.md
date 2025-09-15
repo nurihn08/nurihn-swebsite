@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
 
 </head>
-<body background="background.jfif"
+<body style="background-color: pink;" background="background.jfif">
     <h1 style="font-size: 40px;"> ABOUT ME•⊹₊ </h1>
     <h1 style="text-align: center;">˚　　　　✦　　　.　　. 　 ˚.　　　　　 . *　　 𝓓𝓡𝓔𝓐𝓜 𝓙𝓞𝓑 　　✦　　　.　　.　　　✦　˚ ✦  </h1>
     <h1 style="font-size: 25px;text-align: center;border: 8px solid purple;">.ೃ࿔ ✈︎ ⋆°•☁︎ Hi, I'm Princess Nur-ihn Amil.My Dream job is to become a Flight attendant to travel around the world.ೃ࿔ ✈︎ ⋆°•☁︎</h1>
